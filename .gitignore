@@ -1,10 +1,10 @@
-# 🔒 AI Gallery Pro - Complete .gitignore
+#  AI Gallery Pro - Complete .gitignore
 
 # Created by Daniel Guzman for production deployment
 
 # ========================================
 
-# 🔑 ENVIRONMENT & SECRETS (NEVER COMMIT)
+# ENVIRONMENT & SECRETS (NEVER COMMIT)
 
 # ========================================
 
@@ -30,7 +30,7 @@ config/secrets.js
 
 # ========================================
 
-# 📦 DEPENDENCIES & MODULES
+#  DEPENDENCIES & MODULES
 
 # ========================================
 
@@ -49,7 +49,7 @@ pnpm-lock.yaml
 
 # ========================================
 
-# 🏗️ BUILD OUTPUTS & DIST
+#  BUILD OUTPUTS & DIST
 
 # ========================================
 
@@ -70,7 +70,7 @@ vite.config.ts.timestamp-*
 
 # ========================================
 
-# 🖥️ ELECTRON SPECIFIC
+# ELECTRON SPECIFIC
 
 # ========================================
 
@@ -92,7 +92,7 @@ electron-builder.env
 
 # ========================================
 
-# 📱 PWA & SERVICE WORKER
+# PWA & SERVICE WORKER
 
 # ========================================
 
@@ -106,7 +106,7 @@ workbox-*.js.map
 
 # ========================================
 
-# 🎨 DEVELOPMENT & EDITOR
+# DEVELOPMENT & EDITOR
 
 # ========================================
 
@@ -134,7 +134,7 @@ Icon?
 
 # ========================================
 
-# 🧪 TESTING & COVERAGE
+# TESTING & COVERAGE
 
 # ========================================
 
@@ -152,7 +152,7 @@ jest-coverage/
 
 # ========================================
 
-# 📊 LOGS & RUNTIME
+# LOGS & RUNTIME
 
 # ========================================
 
@@ -173,7 +173,7 @@ pids/
 
 # ========================================
 
-# 🔄 CACHE & TEMPORARY
+# CACHE & TEMPORARY
 
 # ========================================
 
@@ -204,7 +204,7 @@ pids/
 
 # ========================================
 
-# ☁️ CLOUD & DEPLOYMENT
+# CLOUD & DEPLOYMENT
 
 # ========================================
 
@@ -231,7 +231,7 @@ pids/
 
 # ========================================
 
-# 📦 PACKAGE MANAGERS
+# PACKAGE MANAGERS
 
 # ========================================
 
@@ -249,7 +249,7 @@ pids/
 
 # ========================================
 
-# 🎯 PROJECT SPECIFIC
+# PROJECT SPECIFIC
 
 # ========================================
 
@@ -273,7 +273,7 @@ user-data/
 
 # ========================================
 
-# 🔐 SECURITY & CERTIFICATES
+# SECURITY & CERTIFICATES
 
 # ========================================
 
@@ -294,7 +294,7 @@ known_hosts
 
 # ========================================
 
-# 💎 MISC DEVELOPMENT
+# MISC DEVELOPMENT
 
 # ========================================
 
@@ -323,7 +323,7 @@ docs/.vitepress/dist
 
 # ========================================
 
-# 🎨 DESIGN & ASSETS (Optional)
+# DESIGN & ASSETS (Optional)
 
 # ========================================
 
@@ -362,7 +362,7 @@ DRAFT-*
 
 # ========================================
 
-# 🔧 LOCAL CONFIGURATION
+# LOCAL CONFIGURATION
 
 # ========================================
 
@@ -374,7 +374,7 @@ local.config.js
 
 # ========================================
 
-# 📊 ANALYTICS & MONITORING
+# ANALYTICS & MONITORING
 
 # ========================================
 
