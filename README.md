@@ -6,9 +6,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/danielguzman/ai-gallery-pro?style=social)](https://github.com/danielguzman/ai-gallery-pro/stargazers)
 
-[ Live Demo](https://ai-gallery-pro.vercel.app) • [ Documentation](docs/) • [ Discord](https://discord.gg/aigallery) • [ Issues](https://github.com/danielguzman/ai-gallery-pro/issues)
 
-</div>
+
 
 -----
 
