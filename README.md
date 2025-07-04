@@ -6,6 +6,10 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 
+## **Creator**
+**Daniel Guzman**  
+[guzman.danield@outlook.com](mailto:guzman.danield@outlook.com)  
+Southern California  
 
 
 -----
@@ -83,28 +87,6 @@ npm run electron:dev
 # Build distributables
 npm run electron:build
 ```
-
------
-
-## **Demo**
-
-<div align="center">
-
-### ** Web Application**
-
-![Web Demo](https://via.placeholder.com/600x400/1F2937/FFFFFF?text=AI+Gallery+Web+Demo)
-
-### ** Desktop Application**
-
-![Desktop Demo](https://via.placeholder.com/600x400/3B82F6/FFFFFF?text=Desktop+App+Demo)
-
-### * Mobile PWA**
-
-![Mobile Demo](https://via.placeholder.com/300x600/8B5CF6/FFFFFF?text=Mobile+PWA)
-
-</div>
-
------
 
 ## **Tech Stack**
 
@@ -551,40 +533,6 @@ This project is licensed under the **MIT License** - see the <LICENSE> file for 
 
 -----
 
-## **Creator**
-
-<div align="center">
-
-**Daniel Guzman**  
-[guzman.danield@outlook.com](mailto:guzman.danield@outlook.com)  
-Southern California  
-
-
-*Building the future of AI-powered creativity*
-
-</div>
-
------
-
-##**Project Stats**
-
-![GitHub stars](https://img.shields.io/github/stars/danielguzman/ai-gallery-pro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/danielguzman/ai-gallery-pro?style=social)
-![GitHub issues](https://img.shields.io/github/issues/danielguzman/ai-gallery-pro)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/danielguzman/ai-gallery-pro)
-![GitHub last commit](https://img.shields.io/github/last-commit/danielguzman/ai-gallery-pro)
-![GitHub repo size](https://img.shields.io/github/repo-size/danielguzman/ai-gallery-pro)
-
------
-
-<div align="center">
-
-**Star this repository if you found it helpful!**
-
-**[Deploy Now](https://vercel.com/new/clone?repository-url=https://github.com/danielguzman/ai-gallery-pro) •[Try Demo](https://ai-gallery-pro.vercel.app) • [Join Discord](https://discord.gg/aigallery)**
-
------
 
 
 
-</div>
