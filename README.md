@@ -4,7 +4,6 @@
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/danielguzman/ai-gallery-pro)
 [![Deploy to Firebase](https://img.shields.io/badge/Deploy-Firebase-orange?logo=firebase)](https://console.firebase.google.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/danielguzman/ai-gallery-pro?style=social)](https://github.com/danielguzman/ai-gallery-pro/stargazers)
 
 
 
